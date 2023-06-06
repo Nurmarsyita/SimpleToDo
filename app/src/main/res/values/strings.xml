@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="enter_to_do">Enter To Do</string>
+    <string name="buttonAddItems">ADD</string>
+    <string name="buttonClearItems">CLEAR</string>
+    <string name="buttonDeleteItems">DELETE</string>
+    <string-array name="spinnerItems">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+</resources>
